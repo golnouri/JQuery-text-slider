@@ -1,2 +1,2 @@
-# Small-Projects
-Examples of small projects.
+# JQuery text slider
+Automatic and controllable text slider.
