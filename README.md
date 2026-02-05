@@ -2,4 +2,4 @@
 Automatic and controllable text slider.
 
 © Mojtaba Golnouri  
-GitHub: https://github.com/YourUsername
+GitHub: https://github.com/golnouri
